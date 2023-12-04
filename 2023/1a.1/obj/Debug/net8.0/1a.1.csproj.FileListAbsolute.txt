@@ -1,0 +1,15 @@
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\bin\Debug\net8.0\1a.1.exe
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\bin\Debug\net8.0\1a.1.deps.json
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\bin\Debug\net8.0\1a.1.runtimeconfig.json
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\bin\Debug\net8.0\1a.1.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\bin\Debug\net8.0\1a.1.pdb
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\obj\Debug\net8.0\1a.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\obj\Debug\net8.0\1a.1.AssemblyInfoInputs.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\obj\Debug\net8.0\1a.1.AssemblyInfo.cs
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\obj\Debug\net8.0\1a.1.csproj.CoreCompileInputs.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\obj\Debug\net8.0\1a.1.sourcelink.json
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\obj\Debug\net8.0\1a.1.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\obj\Debug\net8.0\refint\1a.1.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\obj\Debug\net8.0\1a.1.pdb
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\obj\Debug\net8.0\1a.1.genruntimeconfig.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\1a.1\obj\Debug\net8.0\ref\1a.1.dll

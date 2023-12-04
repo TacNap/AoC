@@ -1,0 +1,15 @@
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\obj\Debug\net8.0\1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\obj\Debug\net8.0\1b.AssemblyInfoInputs.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\obj\Debug\net8.0\1b.AssemblyInfo.cs
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\obj\Debug\net8.0\1b.csproj.CoreCompileInputs.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\obj\Debug\net8.0\1b.sourcelink.json
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\bin\Debug\net8.0\1b.exe
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\bin\Debug\net8.0\1b.deps.json
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\bin\Debug\net8.0\1b.runtimeconfig.json
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\bin\Debug\net8.0\1b.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\bin\Debug\net8.0\1b.pdb
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\obj\Debug\net8.0\1b.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\obj\Debug\net8.0\refint\1b.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\obj\Debug\net8.0\1b.pdb
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\obj\Debug\net8.0\1b.genruntimeconfig.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\1b\obj\Debug\net8.0\ref\1b.dll
