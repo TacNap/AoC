@@ -1,7 +1,9 @@
 ﻿using System.Text;
 using System.Text.RegularExpressions;
 
-var games = File.ReadLines("../../../input.txt", Encoding.UTF8);
+// IMPORTANT: the path here will change depending on whether 
+// you build from VSCode, or from CLI
+var games = File.ReadLines("input.txt", Encoding.UTF8);
 var sum = 0;
 var gameNoRegex = new Regex(@"\d+");
 var setRegex = new Regex(@"[\s][^;:]*[;]|[\s][^;:]*$");

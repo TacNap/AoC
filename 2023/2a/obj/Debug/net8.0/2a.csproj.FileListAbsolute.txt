@@ -1,15 +1,30 @@
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\obj\Debug\net8.0\2a.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\obj\Debug\net8.0\2a.AssemblyInfoInputs.cache
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\obj\Debug\net8.0\2a.AssemblyInfo.cs
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\obj\Debug\net8.0\2a.csproj.CoreCompileInputs.cache
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\obj\Debug\net8.0\2a.sourcelink.json
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\bin\Debug\net8.0\2a.exe
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\bin\Debug\net8.0\2a.deps.json
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\bin\Debug\net8.0\2a.runtimeconfig.json
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\bin\Debug\net8.0\2a.dll
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\bin\Debug\net8.0\2a.pdb
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\obj\Debug\net8.0\2a.dll
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\obj\Debug\net8.0\refint\2a.dll
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\obj\Debug\net8.0\2a.pdb
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\obj\Debug\net8.0\2a.genruntimeconfig.cache
-C:\Users\ml64360\Source\Repos\AoC\2023\2a\obj\Debug\net8.0\ref\2a.dll
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/obj/Debug/net8.0/2a.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/obj/Debug/net8.0/2a.AssemblyInfoInputs.cache
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/obj/Debug/net8.0/2a.AssemblyInfo.cs
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/obj/Debug/net8.0/2a.csproj.CoreCompileInputs.cache
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/obj/Debug/net8.0/2a.sourcelink.json
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/bin/Debug/net8.0/2a.exe
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/bin/Debug/net8.0/2a.deps.json
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/bin/Debug/net8.0/2a.runtimeconfig.json
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/bin/Debug/net8.0/2a.dll
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/bin/Debug/net8.0/2a.pdb
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/obj/Debug/net8.0/2a.dll
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/obj/Debug/net8.0/refint/2a.dll
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/obj/Debug/net8.0/2a.pdb
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/obj/Debug/net8.0/2a.genruntimeconfig.cache
+C:/Users/ml64360/Source/Repos/AoC/2023/2a/obj/Debug/net8.0/ref/2a.dll
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/bin/Debug/net8.0/2a
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/bin/Debug/net8.0/2a.deps.json
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/bin/Debug/net8.0/2a.runtimeconfig.json
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/bin/Debug/net8.0/2a.dll
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/bin/Debug/net8.0/2a.pdb
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/obj/Debug/net8.0/2a.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/obj/Debug/net8.0/2a.AssemblyInfoInputs.cache
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/obj/Debug/net8.0/2a.AssemblyInfo.cs
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/obj/Debug/net8.0/2a.csproj.CoreCompileInputs.cache
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/obj/Debug/net8.0/2a.sourcelink.json
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/obj/Debug/net8.0/2a.dll
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/obj/Debug/net8.0/refint/2a.dll
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/obj/Debug/net8.0/2a.pdb
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/obj/Debug/net8.0/2a.genruntimeconfig.cache
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/2a/obj/Debug/net8.0/ref/2a.dll

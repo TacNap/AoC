@@ -1,0 +1,15 @@
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/obj/Debug/net8.0/3a.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/obj/Debug/net8.0/3a.AssemblyInfoInputs.cache
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/obj/Debug/net8.0/3a.AssemblyInfo.cs
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/obj/Debug/net8.0/3a.csproj.CoreCompileInputs.cache
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/obj/Debug/net8.0/3a.sourcelink.json
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/bin/Debug/net8.0/3a
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/bin/Debug/net8.0/3a.deps.json
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/bin/Debug/net8.0/3a.runtimeconfig.json
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/bin/Debug/net8.0/3a.dll
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/bin/Debug/net8.0/3a.pdb
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/obj/Debug/net8.0/3a.dll
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/obj/Debug/net8.0/refint/3a.dll
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/obj/Debug/net8.0/3a.pdb
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/obj/Debug/net8.0/3a.genruntimeconfig.cache
+/Users/matt/Library/CloudStorage/OneDrive-Personal/Personal/A_C# Learning/AoC/2023/3a/obj/Debug/net8.0/ref/3a.dll
