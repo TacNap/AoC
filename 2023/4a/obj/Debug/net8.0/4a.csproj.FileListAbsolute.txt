@@ -1,0 +1,15 @@
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\obj\Debug\net8.0\4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\obj\Debug\net8.0\4a.AssemblyInfoInputs.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\obj\Debug\net8.0\4a.AssemblyInfo.cs
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\obj\Debug\net8.0\4a.csproj.CoreCompileInputs.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\obj\Debug\net8.0\4a.sourcelink.json
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\bin\Debug\net8.0\4a.exe
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\bin\Debug\net8.0\4a.deps.json
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\bin\Debug\net8.0\4a.runtimeconfig.json
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\bin\Debug\net8.0\4a.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\bin\Debug\net8.0\4a.pdb
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\obj\Debug\net8.0\4a.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\obj\Debug\net8.0\refint\4a.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\obj\Debug\net8.0\4a.pdb
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\obj\Debug\net8.0\4a.genruntimeconfig.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\4a\obj\Debug\net8.0\ref\4a.dll

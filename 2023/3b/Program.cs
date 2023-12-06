@@ -8,7 +8,7 @@ Regex rx = new Regex(@"[*]"); // Finds '*'
 Regex rxDigits = new Regex(@"[\d]+"); // Finds consecutive digits
 
 // Read file, line by line, into a List of strings
-var lines = File.ReadLines("../../../input.txt", Encoding.UTF8);
+var lines = File.ReadLines("../../../input.txt", );
 var linesList = new List<string>(lines);
 var product = 0;
 
