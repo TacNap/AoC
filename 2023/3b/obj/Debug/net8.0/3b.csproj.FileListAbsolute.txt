@@ -1,0 +1,15 @@
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\obj\Debug\net8.0\3b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\obj\Debug\net8.0\3b.AssemblyInfoInputs.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\obj\Debug\net8.0\3b.AssemblyInfo.cs
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\obj\Debug\net8.0\3b.csproj.CoreCompileInputs.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\obj\Debug\net8.0\3b.sourcelink.json
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\bin\Debug\net8.0\3b.exe
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\bin\Debug\net8.0\3b.deps.json
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\bin\Debug\net8.0\3b.runtimeconfig.json
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\bin\Debug\net8.0\3b.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\bin\Debug\net8.0\3b.pdb
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\obj\Debug\net8.0\3b.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\obj\Debug\net8.0\refint\3b.dll
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\obj\Debug\net8.0\3b.pdb
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\obj\Debug\net8.0\3b.genruntimeconfig.cache
+C:\Users\ml64360\Source\Repos\AoC\2023\3b\obj\Debug\net8.0\ref\3b.dll
