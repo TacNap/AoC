@@ -31,9 +31,6 @@ for(int i = 0; i < LIMIT; i++)
     // Find instances of '*' with regex
     MatchCollection matches = rx.Matches(linesList[i]);
     foreach(Match match in matches) {
-        // Generate the X-axis indices of the rectangle that searches for digits
-        var start = match.Index-1;
-        var length = match.Length + 2;
         var n = match.Index;
         var borderNumbers = new List<int>();
         for (int j = -1; j <= 1; j++) // Check lines on previous, current and next Y-axes 
