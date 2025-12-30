@@ -1,0 +1,15 @@
+/Users/matt/Documents/LocalRepos/AoC/2025/obj/Debug/net8.0/2025.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matt/Documents/LocalRepos/AoC/2025/obj/Debug/net8.0/2025.AssemblyInfoInputs.cache
+/Users/matt/Documents/LocalRepos/AoC/2025/obj/Debug/net8.0/2025.AssemblyInfo.cs
+/Users/matt/Documents/LocalRepos/AoC/2025/obj/Debug/net8.0/2025.csproj.CoreCompileInputs.cache
+/Users/matt/Documents/LocalRepos/AoC/2025/obj/Debug/net8.0/2025.sourcelink.json
+/Users/matt/Documents/LocalRepos/AoC/2025/bin/Debug/net8.0/2025
+/Users/matt/Documents/LocalRepos/AoC/2025/bin/Debug/net8.0/2025.deps.json
+/Users/matt/Documents/LocalRepos/AoC/2025/bin/Debug/net8.0/2025.runtimeconfig.json
+/Users/matt/Documents/LocalRepos/AoC/2025/bin/Debug/net8.0/2025.dll
+/Users/matt/Documents/LocalRepos/AoC/2025/bin/Debug/net8.0/2025.pdb
+/Users/matt/Documents/LocalRepos/AoC/2025/obj/Debug/net8.0/2025.dll
+/Users/matt/Documents/LocalRepos/AoC/2025/obj/Debug/net8.0/refint/2025.dll
+/Users/matt/Documents/LocalRepos/AoC/2025/obj/Debug/net8.0/2025.pdb
+/Users/matt/Documents/LocalRepos/AoC/2025/obj/Debug/net8.0/2025.genruntimeconfig.cache
+/Users/matt/Documents/LocalRepos/AoC/2025/obj/Debug/net8.0/ref/2025.dll
