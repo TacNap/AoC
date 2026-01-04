@@ -1,0 +1,15 @@
+/home/little/Repositories/AoC/2025_b/obj/Debug/net10.0/2025_b.GeneratedMSBuildEditorConfig.editorconfig
+/home/little/Repositories/AoC/2025_b/obj/Debug/net10.0/2025_b.AssemblyInfoInputs.cache
+/home/little/Repositories/AoC/2025_b/obj/Debug/net10.0/2025_b.AssemblyInfo.cs
+/home/little/Repositories/AoC/2025_b/obj/Debug/net10.0/2025_b.csproj.CoreCompileInputs.cache
+/home/little/Repositories/AoC/2025_b/obj/Debug/net10.0/2025_b.sourcelink.json
+/home/little/Repositories/AoC/2025_b/bin/Debug/net10.0/2025_b
+/home/little/Repositories/AoC/2025_b/bin/Debug/net10.0/2025_b.deps.json
+/home/little/Repositories/AoC/2025_b/bin/Debug/net10.0/2025_b.runtimeconfig.json
+/home/little/Repositories/AoC/2025_b/bin/Debug/net10.0/2025_b.dll
+/home/little/Repositories/AoC/2025_b/bin/Debug/net10.0/2025_b.pdb
+/home/little/Repositories/AoC/2025_b/obj/Debug/net10.0/2025_b.dll
+/home/little/Repositories/AoC/2025_b/obj/Debug/net10.0/refint/2025_b.dll
+/home/little/Repositories/AoC/2025_b/obj/Debug/net10.0/2025_b.pdb
+/home/little/Repositories/AoC/2025_b/obj/Debug/net10.0/2025_b.genruntimeconfig.cache
+/home/little/Repositories/AoC/2025_b/obj/Debug/net10.0/ref/2025_b.dll
