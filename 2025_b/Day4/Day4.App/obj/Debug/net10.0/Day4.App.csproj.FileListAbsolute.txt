@@ -1,0 +1,15 @@
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/bin/Debug/net10.0/Day4.App
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/bin/Debug/net10.0/Day4.App.deps.json
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/bin/Debug/net10.0/Day4.App.runtimeconfig.json
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/bin/Debug/net10.0/Day4.App.dll
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/bin/Debug/net10.0/Day4.App.pdb
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/obj/Debug/net10.0/Day4.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/obj/Debug/net10.0/Day4.App.AssemblyInfoInputs.cache
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/obj/Debug/net10.0/Day4.App.AssemblyInfo.cs
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/obj/Debug/net10.0/Day4.App.csproj.CoreCompileInputs.cache
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/obj/Debug/net10.0/Day4.App.sourcelink.json
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/obj/Debug/net10.0/Day4.App.dll
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/obj/Debug/net10.0/refint/Day4.App.dll
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/obj/Debug/net10.0/Day4.App.pdb
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/obj/Debug/net10.0/Day4.App.genruntimeconfig.cache
+/home/little/Repositories/AoC/2025_b/Day4/Day4.App/obj/Debug/net10.0/ref/Day4.App.dll
