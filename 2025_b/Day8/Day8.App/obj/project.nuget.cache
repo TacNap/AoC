@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HUFCm2WRjLk=",
+  "success": true,
+  "projectFilePath": "/home/little/Repositories/AoC/2025_b/Day8/Day8.App/Day8.App.csproj",
+  "expectedPackageFiles": [
+    "/home/little/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
